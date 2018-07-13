@@ -1,0 +1,28 @@
+{
+  "name": "sequelize-interval-postgres",
+  "version": "1.0.0",
+  "description": "Add support for INTERVAL data-type for PostgreSQL in Sequelize",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abelosorio/sequelize-interval-postgres.git"
+  },
+  "keywords": [
+    "PostgreSQL",
+    "Interval",
+    "Sequelize"
+  ],
+  "author": "Abel M. Osorio <abel.m.osorio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abelosorio/sequelize-interval-postgres/issues"
+  },
+  "homepage": "https://github.com/abelosorio/sequelize-interval-postgres#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "util": "^0.11.0"
+  }
+}
